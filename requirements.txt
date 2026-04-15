@@ -1,0 +1,23 @@
+# Notebook
+jupyterlab
+ipykernel
+
+# Data
+pandas
+numpy
+pyarrow
+
+# Matemática / ML
+scipy
+scikit-learn
+
+# Visualização
+matplotlib
+
+# API
+fastapi
+uvicorn[standard]
+
+# Testes
+pytest
+httpx
